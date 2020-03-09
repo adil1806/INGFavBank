@@ -135,5 +135,13 @@
 	
 		</plugins>
 	</build>
+	<profiles>
+		 <profile>
+	    <id>sit</id>
+	    <properties>
+		    <spring.profiles.active>sit</spring.profiles.active>
+	    </properties>
+    </profile>
+</profiles>
 
 </project>
