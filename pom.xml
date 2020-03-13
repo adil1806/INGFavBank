@@ -137,9 +137,9 @@
 	</build>
 	<profiles>
 		 <profile>
-	    <id>sit</id>
+	    <id>uat</id>
 	    <properties>
-		    <spring.profiles.active>sit</spring.profiles.active>
+		    <spring.profiles.active>uat</spring.profiles.active>
 	    </properties>
     </profile>
 </profiles>
